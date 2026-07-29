@@ -4,7 +4,7 @@ ASP.NET Core, Blazor, React ve React Native ile güvenli web ve mobil uygulamala
 
 ## Hakkımda
 
-.NET ekosistemi ve modern JavaScript teknolojileriyle uçtan uca uygulamalar geliştiriyorum. Backend güvenliği, gerçek zamanlı sistemler, mobil istemciler ve yönetim panelleri üzerine çalışıyorum.
+.NET ekosistemi ve modern JavaScript teknolojileriyle uçtan uca uygulamalar geliştiriyorum. Gerçek zamanlı sistemler, mobil istemciler ve yönetim panelleri üzerine çalışıyorum.
 
 ## Öne çıkan projeler
 
